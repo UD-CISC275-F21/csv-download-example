@@ -1,17 +1,14 @@
-import React from "react";
-import logo from "./logo.svg";
+import React, { useState } from "react";
 import "./App.css";
+import { DownloadButton } from "./components/DownloadButton";
+import { INITIAL_DATA } from "./data/neighborhoods";
+import { Neighborhood } from "./interfaces/neighborhood";
 
 function App(): JSX.Element {
+    const [neighborhoods] = useState<Neighborhood[]>(INITIAL_DATA);
     return (
         <div className="App">
-            <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo" />
-                UD CIS Scheduler
-                <p>
-                    Edit <code>src/App.tsx</code> and save to reload.
-                </p>
-            </header>
+            <DownloadButton neighborhoods={neighborhoods}/>
         </div>
     );
 }
