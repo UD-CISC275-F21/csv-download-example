@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/csv-download-example/static/css/main.a617e044.chunk.css",
+    "main.js": "/csv-download-example/static/js/main.48282c99.chunk.js",
+    "main.js.map": "/csv-download-example/static/js/main.48282c99.chunk.js.map",
+    "runtime-main.js": "/csv-download-example/static/js/runtime-main.8d8daca6.js",
+    "runtime-main.js.map": "/csv-download-example/static/js/runtime-main.8d8daca6.js.map",
+    "static/js/2.aac2741c.chunk.js": "/csv-download-example/static/js/2.aac2741c.chunk.js",
+    "static/js/2.aac2741c.chunk.js.map": "/csv-download-example/static/js/2.aac2741c.chunk.js.map",
+    "static/js/3.3c918545.chunk.js": "/csv-download-example/static/js/3.3c918545.chunk.js",
+    "static/js/3.3c918545.chunk.js.map": "/csv-download-example/static/js/3.3c918545.chunk.js.map",
+    "index.html": "/csv-download-example/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/csv-download-example/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.aac2741c.chunk.js.LICENSE.txt": "/csv-download-example/static/js/2.aac2741c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d8daca6.js",
+    "static/js/2.aac2741c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.48282c99.chunk.js"
+  ]
+}
